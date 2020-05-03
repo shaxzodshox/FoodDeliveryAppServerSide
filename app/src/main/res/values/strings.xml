@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodDeliveryServer</string>
+    <string name="slogan">
+Oziq-ovqatlarni buyurtma qilish va ularni Toshkent shahrida yetkazib berish xizmati
+    \n\n(Xodimlar dasturi)</string>
+    <string name="kirish">Kirish</string>
+    <string name="telefon">Telefon</string>
+    <string name="parol">Parol</string>
+    <string name="iltimos_kuting">Iltimos kuting</string>
+    <string name="parol_xato">Parol noto\'gri! Qaytadan kiriting</string>
+    <string name="xodim_topilmadi">Bunday xodim topilmadi</string>
+
+</resources>
